@@ -4,7 +4,6 @@ tiktok auto regger accounts, tiktok register, register tiktok accounts, create t
 ## Contact Telegram @pingwin010
 https://t.me/pingwin010
 
-
 ## tiktok API
 1. login to the user by email and username
 2. register new device
